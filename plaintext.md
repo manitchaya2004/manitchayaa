@@ -1,4 +1,3 @@
-6530200380 มนิชญา เบญจเจิดสิริ
 # Plaintext
 - CISSP Glossary - Student Guide
   - url : https://www.isc2.org/certifications/cissp/cissp-student-glossary#p
@@ -22,5 +21,6 @@
   - "ข้อมูลที่อยู่ในรูปแบบข้อความ โดยที่เราสามารถอ่านและเข้าใจได้ทันทีโดยไม่ต้องถอดรหัส"
 - Sample  in Daily life
   - อย่าเก็บรหัสผ่านของผู้ใช้ในรูปแบบข้อความธรรมดา (plaintext) เพราะอาจถูกแฮกง่าย ควรเข้ารหัสก่อนจัดเก็บ
-  
+
+6530200380_มนิชญา เบญจเจิดสิริ
 URL : https://professerswitch.github.io/kiadtiyod/plaintext
