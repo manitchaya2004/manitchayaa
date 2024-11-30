@@ -10,7 +10,7 @@
     - ข้อความในรูปแบบปกติของมันยังไม่ได้ถูกเปลี่ยนเป็นความลับ
 
 - NIST Glossary
-  url : 
+  url : https://csrc.nist.gov/glossary/term/plaintext
   - ความหมาย
     - "Unencrypted information that may be input to an encryption operation."
   - ChatGPT
