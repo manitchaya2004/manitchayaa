@@ -23,4 +23,4 @@
 - Sample  in Daily life
   - อย่าเก็บรหัสผ่านของผู้ใช้ในรูปแบบข้อความธรรมดา (plaintext) เพราะอาจถูกแฮกง่าย ควรเข้ารหัสก่อนจัดเก็บ
   
-URL : (https://professerswitch.github.io/Oak/plaintext)
+URL : [https://professerswitch.github.io/kiadtiyod/plaintext]
