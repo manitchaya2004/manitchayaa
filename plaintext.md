@@ -1,7 +1,7 @@
 6530200380 มนิชญา เบญจเจิดสิริ
 # Plaintext
 - CISSP Glossary - Student Guide
-  url : https://www.isc2.org/certifications/cissp/cissp-student-glossary#p
+  - url : https://www.isc2.org/certifications/cissp/cissp-student-glossary#p
   - ความหมาย
     - "The message in its natural format has not been turned into a secret"
   - ChatGPT
@@ -10,7 +10,7 @@
     - ข้อความในรูปแบบปกติของมันยังไม่ได้ถูกเปลี่ยนเป็นความลับ
 
 - NIST Glossary
-  url : https://csrc.nist.gov/glossary/term/plaintext
+  - url : https://csrc.nist.gov/glossary/term/plaintext
   - ความหมาย
     - "Unencrypted information that may be input to an encryption operation."
   - ChatGPT
@@ -23,4 +23,4 @@
 - Sample  in Daily life
   - อย่าเก็บรหัสผ่านของผู้ใช้ในรูปแบบข้อความธรรมดา (plaintext) เพราะอาจถูกแฮกง่าย ควรเข้ารหัสก่อนจัดเก็บ
   
-URL : [https://professerswitch.github.io/kiadtiyod/plaintext]
+URL : https://professerswitch.github.io/kiadtiyod/plaintext
