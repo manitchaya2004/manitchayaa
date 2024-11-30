@@ -1,6 +1,7 @@
 6530200380 มนิชญา เบญจเจิดสิริ
 # Plaintext
-- CISSP Glossary
+- CISSP Glossary - Student Guide
+  url : https://www.isc2.org/certifications/cissp/cissp-student-glossary#p
   - ความหมาย
     - "The message in its natural format has not been turned into a secret"
   - ChatGPT
@@ -8,7 +9,8 @@
   - Gemini
     - ข้อความในรูปแบบปกติของมันยังไม่ได้ถูกเปลี่ยนเป็นความลับ
 
-- NIST
+- NIST Glossary
+  url : 
   - ความหมาย
     - "Unencrypted information that may be input to an encryption operation."
   - ChatGPT
